@@ -1,2 +1,2 @@
-# Pyton
-Ejercicios en pyton
+# Python
+Ejercicios en python
